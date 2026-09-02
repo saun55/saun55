@@ -11,15 +11,6 @@
 <h3 align="center">Full-Stack Web Developer from Bangladesh</h3>
 
 
-<!--
-- 👋Hi. I'm **@Saun55**
-- 🌱 I’m currently learning **React, TypeScript & Full-Stack Web Development**
-- 📱 Using **VS Code • Git • GitHub • JavaScript • TypeScript • React • Tailwind CSS**
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript & React**
-
-- 📫 How to reach me **saun23831@gmail.com**
--->
-
 
 ## 👋 About Me
 
@@ -40,14 +31,6 @@ Hi, I'm **Shawon**, a **Full-Stack Web Developer from Bangladesh 🇧🇩** pass
 > **"Always learning. Always building. Always improving."** 🚀
 
 
-<h2 align="left">FOLLOW ME ON SOCIALS:</h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/in/shawonahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shawonahmmed" height="30" width="40" /></a>
-<a href="https://fb.com/mdsaun.saun.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaun.saun.56" height="30" width="40" /></a>
-</p>
-
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -64,6 +47,14 @@ Hi, I'm **Shawon**, a **Full-Stack Web Developer from Bangladesh 🇧🇩** pass
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+<h2 align="left">FOLLOW ME ON SOCIALS:</h2>
+
+<p align="left">
+<a href="https://linkedin.com/in/in/shawonahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shawonahmmed" height="30" width="40" /></a>
+<a href="https://fb.com/mdsaun.saun.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaun.saun.56" height="30" width="40" /></a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saun55&" alt="saun55" /></p>
