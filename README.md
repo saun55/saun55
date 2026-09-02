@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Saun</h1>
 <h3 align="center">Full-Stack Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saun55&label=Profile%20views&color=0e75b6&style=flat" alt="saun55" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saun55" alt="saun55" /></a> </p>
 
@@ -36,9 +36,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saun55&" alt="saun55" /></p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saun55&label=Profile%20views&color=0e75b6&style=flat" alt="saun55" /> </p>
 
 ## Contact
 
-
-**Email:** [username](saun23831@gmail.com)
+**Phone** (+880 1918309855)
+**Email:** [username](you-saun23831@gmail.com)
 
