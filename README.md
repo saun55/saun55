@@ -3,7 +3,7 @@
 
 <p align="center">
 
- <img width=auto height="300" alt="ChatGPT Image Sep 2, 2026, 01_09_52 AM" src="https://github.com/user-attachments/assets/a34dba36-dc66-40e1-9ea7-cf839fe19a92" />
+ <img width='775' height="300" alt="ChatGPT Image Sep 2, 2026, 01_09_52 AM" src="https://github.com/user-attachments/assets/a34dba36-dc66-40e1-9ea7-cf839fe19a92" />
 
 
 
@@ -28,24 +28,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+- HTML
 <!--START-->
 
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
+<p align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![
-
+</p>
 <!-- END-->
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saun55&show_icons=true&locale=en&layout=compact" alt="saun55" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saun55&show_icons=true&locale=en" alt="saun55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saun55&" alt="saun55" /></p>
 
@@ -60,8 +56,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shawonahmmed)
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saunahmmed700@gmail.com)
 
