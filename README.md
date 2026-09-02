@@ -11,13 +11,34 @@
 <h3 align="center">Full-Stack Web Developer from Bangladesh</h3>
 
 
-
+<!--
 - 👋Hi. I'm **@Saun55**
 - 🌱 I’m currently learning **React, TypeScript & Full-Stack Web Development**
 - 📱 Using **VS Code • Git • GitHub • JavaScript • TypeScript • React • Tailwind CSS**
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript & React**
 
 - 📫 How to reach me **saun23831@gmail.com**
+-->
+
+
+## 👋 About Me
+
+Hi, I'm **Shawon**, a **Full-Stack Web Developer from Bangladesh 🇧🇩** passionate about creating modern and user-friendly web applications.
+
+- 💻 Building responsive and interactive web experiences
+- ⚛️ Working with **React** and **TypeScript**
+- 🎨 Creating clean and responsive interfaces with **Tailwind CSS**
+- 🚀 Strengthening my skills through real-world projects
+- 🌱 Currently exploring **Full-Stack Web Development**
+- 🎯 Focused on writing clean, maintainable, and scalable code
+- 🤝 Open to collaboration and exciting web development opportunities
+
+### 🛠️ Currently Using
+
+**HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React • Git • GitHub • VS Code**
+
+> **"Always learning. Always building. Always improving."** 🚀
+
 
 <h2 align="left">FOLLOW ME ON SOCIALS:</h2>
 
