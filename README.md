@@ -54,6 +54,20 @@
 
 ## Contact
 
+<!-- start-->
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shawonahmmed)
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saunahmmed700@gmail.com)
+
+
+  <!-- end-->
+
 **Phone** (+880 1918309855)
 **Email:** [username](you-saun23831@gmail.com)
 
