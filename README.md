@@ -3,7 +3,7 @@
 
 <p align="center">
 
- <img width="1774" height="887" alt="ChatGPT Image Sep 2, 2026, 01_09_52 AM" src="https://github.com/user-attachments/assets/a34dba36-dc66-40e1-9ea7-cf839fe19a92" />
+ <img width="auto" height="250" alt="ChatGPT Image Sep 2, 2026, 01_09_52 AM" src="https://github.com/user-attachments/assets/a34dba36-dc66-40e1-9ea7-cf839fe19a92" />
 
 
 
